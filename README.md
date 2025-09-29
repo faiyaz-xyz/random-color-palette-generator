@@ -16,7 +16,6 @@ A simple web app that generates a fresh set of random colors with one click. Eac
 ## Preview
 
 ![Preview](image.png)
-![Preview](image-1.png)
 
 ## ✅ How to Use
 
