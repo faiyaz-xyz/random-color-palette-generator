@@ -1,0 +1,32 @@
+body {
+  overflow-y: hidden;
+}
+
+#card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  margin-top: 150px;
+}
+
+#text {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#btn {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+#palette {
+  display: flex;
+  margin-top: -450px;
+}
